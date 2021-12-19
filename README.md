@@ -7,8 +7,8 @@
   
 * 以下展示功能畫面
  
-  * 1. 初始畫面
-    <img src="https://i.imgur.com/49ocR66.png" width="50%"/>
+  * 1. 初始畫面  
+       <img src="https://i.imgur.com/49ocR66.png" width="40%"/>
     
   * 2. 繪製物件
     <img src="https://i.imgur.com/bwOqI7i.gif" width="50%"/>
@@ -19,6 +19,6 @@
   * 4. 群組、解群組物件
     <img src="https://i.imgur.com/FsvuG4U.gif" width="50%"/>
 
-  * 5. 修改物件名稱(點選修改物件名稱會新開視窗，在此沒有被錄到，將圖片放在下方)
+  * 5. 修改物件名稱(點選修改物件名稱會新開視窗，如右圖)
     <img src="https://i.imgur.com/CL3SrbW.gif" width="50%"/>
-    <img src="https://i.imgur.com/VISDmFO.png" width="50%"/>
+    <img src="https://i.imgur.com/VISDmFO.png" width="36%"/>
