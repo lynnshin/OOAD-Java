@@ -1,4 +1,4 @@
-# OOAD_project
+# OOAD-Java
 
 * 物件導向課程作業-UML Editor
   * 使用語言：JAVA
